@@ -1,6 +1,6 @@
 ---
-title: "Projects"
+title: "Projekt"
 weight: 10
 ---
 
-A showcase of my work and projects.
+En presentation av mitt arbete och projekt.

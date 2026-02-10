@@ -1,6 +1,6 @@
 ---
-title: "Hi, I'm Daniel"
+title: "Daniel Wiklander"
 headless: true
 ---
 
-Welcome to my personal website.
+Det här sysslar jag med.

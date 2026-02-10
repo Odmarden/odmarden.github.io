@@ -1,6 +1,6 @@
 ---
-title: "About"
+title: "Om mig"
 weight: 10
 ---
 
-This is the about section of my website. You can customize this content to tell visitors more about yourself, your interests, and your background.
+Journalist sedan 1998, redaktör sedan 2011. På [Scoop](https://www.scoopmagasin.se) sedan 2018.

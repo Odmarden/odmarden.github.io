@@ -1,0 +1,27 @@
+[404_title]
+    other = "404 Sidan kunde inte hittas"
+[404_description]
+    other = "Hoppsan! Den här sidan finns inte."
+[index_projects_allProjects]
+    other = "Alla projekt"
+[index_blog_latestPosts]
+    other = "Senaste inlägget"
+[index_blog_allPosts]
+    other = "Alla inlägg"
+[index_blog_readMore]
+    other = "Läs mer"
+[index_currentTime]
+    other = "Min lokala tid är"
+[nav_backToSection]
+    other = "Tillbaka till {{ .Title }}"
+[nav_main]
+    other = "huvudmeny"
+[nav_home]
+    other = "Hem"
+[blog_readingTime]
+    one = "{{ .Count }} minuts läsning"
+    other = "{{ .Count }} minuters läsning"
+[blog_shareThis]
+    other = "Dela"
+[footer_text]
+    other = "[**Introduction**](https://github.com/victoriadrake/hugo-theme-introduction/) tema för [Hugo](http://gohugo.io/). Skapat av open source-bidragsgivare."
