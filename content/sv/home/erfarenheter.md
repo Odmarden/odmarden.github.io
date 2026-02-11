@@ -5,7 +5,7 @@ weight: 15
 
 <div class="has-text-left">
 
-Erfarenheter:
+**Erfarenheter:**
 
 Ansvarigt utgivarskap för flera publikationer, däribland en nyhetstidning.
 
@@ -26,5 +26,9 @@ Lärare i journalistik.
 Föredragshållare.
 
 Arrangör av event – koncept, marknadsföring, produktion.
+
+**Tidigare arbetsgivare, ett urval:**
+
+Aftonbladet, Dagens Nyheter, TV4, Sveriges Radio Ekot, SVT, Dagens Samhälle, ETC, Arbetaren, Stiftelsen Expo, Svenska Journalistförbundet.
 
 </div>
