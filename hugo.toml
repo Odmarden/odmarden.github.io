@@ -10,7 +10,7 @@ DefaultContentLanguage           = "sv"
     fadeIn                       = true
     fadeInIndex                  = false
     dateFormat                   = "2 Jan 2006"
-    email                        = "daniel@wiklander.biz"
+    email                        = "daniel@dwiklander.se"
 
     [params.home]
         introHeight              = "fullheight"
@@ -33,7 +33,7 @@ DefaultContentLanguage           = "sv"
         icon  = "linkedin-in"
         icon_pack = "fab"
     [[params.social]]
-        url = "mailto:daniel@wiklander.biz"
+        url = "mailto:daniel@dwiklander.se"
         icon = "paper-plane"
         icon_pack = "fas"
 
