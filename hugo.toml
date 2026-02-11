@@ -1,6 +1,6 @@
 baseURL                          = "https://odmarden.github.io/"
 theme                            = "introduction"
-DefaultContentLanguage           = "en"
+DefaultContentLanguage           = "sv"
 
 [params]
     themeStyle                   = "auto"
@@ -57,11 +57,11 @@ DefaultContentLanguage           = "en"
     tabWidth = 4
 
 [languages]
-    [languages.en]
+    [languages.sv]
         languageName     = "Svenska"
         languageCode     = "sv"
-        contentDir       = "content/en"
+        contentDir       = "content/sv"
         weight           = 0
         title            = "Daniel Wiklander"
-        [languages.en.params]
+        [languages.sv.params]
             description  = "Daniel Wiklanders sajt"
