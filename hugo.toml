@@ -24,9 +24,9 @@ DefaultContentLanguage           = "sv"
         useTwoColumns            = false
 
     [params.share]
-        twitter                  = true
+        twitter                  = false
         facebook                 = true
-        pinterest                = true
+        pinterest                = false
 
     [[params.social]]
         url   = "https://www.linkedin.com/in/daniel-wiklander-15b7202a"
