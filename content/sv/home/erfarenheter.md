@@ -3,6 +3,8 @@ title: "Vad jag kan och vad jag har gjort"
 weight: 15
 ---
 
+<div class="has-text-left">
+
 Erfarenheter:
 
 Ansvarigt utgivarskap för flera publikationer, däribland en nyhetstidning.
@@ -24,3 +26,5 @@ Lärare i journalistik.
 Föredragshållare.
 
 Arrangör av event – koncept, marknadsföring, produktion.
+
+</div>
