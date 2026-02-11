@@ -25,6 +25,8 @@ Lärare i journalistik.
 
 Föredragshållare.
 
+Moderator.
+
 Arrangör av event – koncept, marknadsföring, produktion.
 
 **Tidigare arbetsgivare, ett urval:**
