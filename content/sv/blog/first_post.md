@@ -8,8 +8,8 @@ När jag inte jobbar ägnar jag mig troligen åt en av följande saker:
 
 Gör musik i Ableton Live,
 
-Lär mig programmera Python,
+lär mig programmera Python,
 
-Vandrar i skogen.
+vandrar i skogen.
 
 Mer av de två första när det är vinter och mörkt större delen av dygnet. 
