@@ -29,6 +29,6 @@ Arrangör av event – koncept, marknadsföring, produktion.
 
 **Tidigare arbetsgivare, ett urval:**
 
-Aftonbladet, Dagens Nyheter, TV4, Sveriges Radio Ekot, SVT, Dagens Samhälle, ETC, Arbetaren, Stiftelsen Expo, Svenska Journalistförbundet.
+Aftonbladet, Dagens Nyheter, TV4, Sveriges Radio Ekot, SVT, Dagens Samhälle, ETC, Arbetaren, Stiftelsen Expo, Svenska Journalistförbundet, Socialstyrelsen, Utbildningsdepartementet.
 
 </div>
