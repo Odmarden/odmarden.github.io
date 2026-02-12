@@ -9,7 +9,13 @@ weight: 15
 
 Ansvarigt utgivarskap för flera publikationer, däribland en nyhetstidning.
 
+Chefredaktör på två tidningar.
+
 Arbetsledning med personalansvar på en tidningsredaktion.
+
+Redaktör på flera tidningar.
+
+Debattredaktör.
 
 Projektledning och kravställning av en rad webbplatser.
 
