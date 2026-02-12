@@ -39,4 +39,7 @@ Arrangör av event – koncept, marknadsföring, produktion.
 
 Aftonbladet, Dagens Nyheter, TV4, Sveriges Radio Ekot, SVT, Dagens Samhälle, ETC, Arbetaren, Stiftelsen Expo, Svenska Journalistförbundet, Socialstyrelsen, Utbildningsdepartementet.
 
+**Kompetenser**
+Photoshop, InDesign, Premiere Pro, Ableton Live, HTML, grundläggande programmering.
+
 </div>
