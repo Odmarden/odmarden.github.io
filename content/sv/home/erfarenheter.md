@@ -35,6 +35,8 @@ Moderator.
 
 Arrangör av event – koncept, marknadsföring, produktion.
 
+Medverkar med musik på över tio album utgivna i USA.
+
 **Tidigare arbetsgivare, ett urval:**
 
 Aftonbladet, Dagens Nyheter, TV4, Sveriges Radio Ekot, SVT, Dagens Samhälle, ETC, Arbetaren, Stiftelsen Expo, Svenska Journalistförbundet, Socialstyrelsen, Utbildningsdepartementet.
