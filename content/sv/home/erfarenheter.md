@@ -41,7 +41,7 @@ Medverkar med musik på över tio album utgivna i USA.
 
 Aftonbladet, Dagens Nyheter, TV4, Sveriges Radio Ekot, SVT, Dagens Samhälle, ETC, Arbetaren, Stiftelsen Expo, Svenska Journalistförbundet, Socialstyrelsen, Utbildningsdepartementet.
 
-**Kompetenser**
+**Kompetenser:**
 Photoshop, InDesign, Premiere Pro, Ableton Live, HTML, grundläggande programmering.
 
 </div>
