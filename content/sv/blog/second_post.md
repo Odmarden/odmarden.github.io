@@ -8,7 +8,7 @@ Alla hjärtans dag och jag kunde hämta ut en begagnad Lenovo T480s från paketb
 
 Nyskick för ett riktigt bra pris. 
 
-De har fått ett kultrykte för att de fortfarande är hyfsat nya, riktigt välbyggda och framför allt går att uppgradera enkelt. Som Apples Macbook Pro var för 10 år sedan. 
+De har fått ett kultrykte för att de fortfarande är hyfsat nya, riktigt välbyggda och framför allt går att uppgradera enkelt. Som Apples Macbook Pro var för 15 år sedan. 
 
 Vem som helst kan sätta in mer minne och större SSD i en T480. Bara att plocka av bottenplattan.
 
