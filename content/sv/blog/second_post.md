@@ -10,7 +10,7 @@ Nyskick för ett riktigt bra pris.
 
 De har fått ett kultrykte för att de fortfarande är hyfsat nya, riktigt välbyggda och framför allt går att uppgradera enkelt. Som Apples Macbook Pro var för 15 år sedan. 
 
-Vem som helst kan sätta in mer minne och större SSD i en T480. Bara att plocka av bottenplattan. På sätt och vis motsvarigheten till Volvo 240, Technics SL 1210 eller Kalasjnikov.  
+Vem som helst kan sätta in mer minne och större SSD i en T480. Bara att plocka av bottenplattan.  
 
 Du kör inte de senaste spelen eller lokala AI-agenter på en T480, men för vanlig programmering funkar den fint. Gedigen med riktigt skönt tangentbord. På sätt och vis motsvarigheten till Volvo 240, Technics SL 1210 eller Kalasjnikov.
 
