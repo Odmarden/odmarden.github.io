@@ -12,6 +12,6 @@ De har fått ett kultrykte för att de fortfarande är hyfsat nya, riktigt välb
 
 Vem som helst kan sätta in mer minne och större SSD i en T480. Bara att plocka av bottenplattan.
 
-Du kör inte de senaste spelen eller lokal AI-agenter på T480, men för vanlig programmering funkar den fint. Gedigen med riktigt skönt tangentbord.
+Du kör inte de senaste spelen eller lokal AI-agenter på en T480, men för vanlig programmering funkar den fint. Gedigen med riktigt skönt tangentbord.
 
 Det första jag gjorde var att ersätta det gräsliga Windows med NixOS och ladda ner mina dotfiles från Github. Lät Claude fixa det sista och nu är den som den ska vara.
