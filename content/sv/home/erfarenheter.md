@@ -25,6 +25,8 @@ Inspelning och produktion av poddar.
 
 Produktion av reklamfilm för webben, från idé till färdigt filmklipp.
 
+Kommunikationsstrategier i sociala medier.
+
 Framställning av profilmaterial till mässor och event – från idé till tryckfärdigt original.
 
 Lärare i journalistik.
