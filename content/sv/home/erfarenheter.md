@@ -27,6 +27,8 @@ Produktion av reklamfilm för webben, från idé till färdigt filmklipp.
 
 Kommunikationsstrategier i sociala medier.
 
+Strategier för utåtriktad kommunikation i samband med kriser i organisationer (olika fall i olika organisationer)
+
 Framställning av profilmaterial till mässor och event – från idé till tryckfärdigt original.
 
 Lärare i journalistik.
