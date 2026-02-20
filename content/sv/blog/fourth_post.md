@@ -14,6 +14,6 @@ Och mycket riktigt – på en fråga från sajten [Media.nu](https://media.nu/00
 
 Det var väl bara en tidsfråga innan detta skulle hända, och kanske inte helt oväntat att det blev i en självhjälpspalt. För självfallet hade det varit OK om författaren tagit fram precis den där punktlistan och så vidare med hjälp av ChatGPT (eller valfri konkurrent, jag hårdrar lite i rubriken för det är inte klarlagt exakt vilken han använt), om han sedan skrivit en egen text med den som stöd. 
 
-Men så riktigt så klyschig och förnumstig är det nog svårt att vara för en människa. Där får man erkänna att AI redan sprungit förbi oss.
+Men så riktigt så klyschig och förnumstig som texten i DN är det nog svårt att vara för en människa. Där får man erkänna att AI redan sprungit förbi oss.
 
 
