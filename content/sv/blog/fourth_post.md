@@ -10,7 +10,7 @@ Det var en av de inhyrda experterna i DN:s ekonomipanel som [levererat en text](
 
 Liksom formuleringar som "Våra sociala flöden är fulla av människor som väljer bort ekorrhjulet, gärna låtsasjobbande på en laptop från lobbyn på Soho House och med ett nytt jag på den äggvita menyn med överprissatta mellanrätter".
 
-Och mycket riktigt – på en fråga från sajten [Media.nu](https://media.nu/0014213/dagens-nyheters-ekonomipanel-svarade-med-ai-text-inom-ramen-for-var-policy/) svarar ansvarig redaktör på DN att experten använt AI, "inom ramen för vår policy".
+Och mycket riktigt – på en fråga från sajten [Media.nu](https://media.nu/0014213/dagens-nyheters-ekonomipanel-svarade-med-ai-text-inom-ramen-for-var-policy/) bekräftar ansvarig redaktör på DN att experten använt AI, "inom ramen för vår policy".
 
 Det var väl bara en tidsfråga innan detta skulle hända, och kanske inte helt oväntat att det blev i en självhjälpspalt. För självfallet hade det varit OK om författaren tagit fram precis den där punktlistan och så vidare med hjälp av ChatGPT (eller valfri konkurrent, jag hårdrar lite i rubriken för det är inte klarlagt exakt vilken han använt), om han sedan skrivit en egen text med den som stöd. 
 
