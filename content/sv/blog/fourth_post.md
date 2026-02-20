@@ -4,9 +4,9 @@ date: 2026-02-20
 tags: ["AI", "ChatGPT", "Dagens Nyheter"]
 ---
 
-Misstankarna väcktes direkt om att ett svar på en läsarfråga i DN nyligen var författad av en, ska vi säga, mindre mänsklig skribent.
+Funderingarna väcktes direkt om att ett svar på en läsarfråga i DN nyligen var författad av en, ska vi säga, mindre mänsklig skribent.
 
-Det var en av de inhyrda experterna i DN:s ekonomipanel som [levererat ett svar](https://www.dn.se/ekonomi/jag-kanner-mig-inte-lyckad-vad-kan-jag-gora/) som var misstänkt likt vad man kan tänka sig få från ChatGPT eller liknande LLM:er. Inte för att det var något fel på råden, men den klämkäcka tonen och de karaktäristiska punktlistorna skvallrade om robothjälp. 
+Det var en av de inhyrda experterna i DN:s ekonomipanel som [levererat en text](https://www.dn.se/ekonomi/jag-kanner-mig-inte-lyckad-vad-kan-jag-gora/) som var misstänkt likt vad man kan tänka sig få från ChatGPT eller liknande LLM:er. Inte för att det var något fel på råden, men den klämkäcka tonen och de karaktäristiska punktlistorna skvallrade om robothjälp. 
 
 Liksom formuleringar som "Våra sociala flöden är fulla av människor som väljer bort ekorrhjulet, gärna låtsasjobbande på en laptop från lobbyn på Soho House och med ett nytt jag på den äggvita menyn med överprissatta mellanrätter".
 
