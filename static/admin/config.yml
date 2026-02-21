@@ -1,26 +1,19 @@
 # =============================================================================
-# Decap CMS Configuration
+# Sveltia CMS Configuration
 # =============================================================================
 #
-# SETUP INSTRUCTIONS (one-time):
+# LOGIN:
+#   Visit https://dwiklander.se/admin/ and sign in with a GitHub
+#   Personal Access Token (PAT). Create one at:
+#   https://github.com/settings/tokens/new
+#   (select "repo" scope)
 #
-# 1. Go to https://github.com/settings/developers
-# 2. Find the "Odmarden CMS" OAuth App and click to edit it
-# 3. Update to use your custom domain:
-#    - Homepage URL: https://dwiklander.se/
-#    - Authorization callback URL: https://dwiklander.se/admin/
-# 4. Save changes
-#
-# After that, visit https://dwiklander.se/admin/ to log in and manage
-# your site content through a graphical interface.
 # =============================================================================
 
 backend:
   name: github
   repo: Odmarden/odmarden.github.io
   branch: main
-  auth_type: pkce
-  app_id: Ov23liueMTGJJvVqHV7I
 
 media_folder: static/img/uploads
 public_folder: /img/uploads
