@@ -1,0 +1,82 @@
+# =============================================================================
+# Decap CMS Configuration
+# =============================================================================
+#
+# SETUP INSTRUCTIONS (one-time):
+#
+# 1. Go to https://github.com/settings/developers
+# 2. Click "New OAuth App"
+# 3. Fill in:
+#    - Application name: Odmarden CMS
+#    - Homepage URL: https://odmarden.github.io/
+#    - Authorization callback URL: https://odmarden.github.io/admin/
+# 4. Click "Register application"
+# 5. Copy the "Client ID" and paste it below in the `base_url` field
+#    (replace YOUR_GITHUB_OAUTH_APP_CLIENT_ID)
+#
+# After that, visit https://odmarden.github.io/admin/ to log in and manage
+# your site content through a graphical interface.
+# =============================================================================
+
+backend:
+  name: github
+  repo: Odmarden/odmarden.github.io
+  branch: main
+  auth_type: pkce
+  app_id: YOUR_GITHUB_OAUTH_APP_CLIENT_ID
+
+media_folder: static/img/uploads
+public_folder: /img/uploads
+
+locale: sv
+
+slug:
+  encoding: ascii
+  clean_accents: true
+
+collections:
+  - name: blog
+    label: "Blogg"
+    folder: content/sv/blog
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    format: yaml-frontmatter
+    fields:
+      - { label: "Titel", name: title, widget: string }
+      - { label: "Datum", name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Taggar", name: tags, widget: list, required: false }
+      - { label: "Innehåll", name: body, widget: markdown }
+
+  - name: home
+    label: "Hemsektioner"
+    editor:
+      preview: false
+    files:
+      - label: "Intro"
+        name: index
+        file: content/sv/home/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Headless", name: headless, widget: hidden, default: true }
+          - { label: "Innehåll", name: body, widget: markdown }
+      - label: "Om mig"
+        name: about
+        file: content/sv/home/about.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Vikt (sortering)", name: weight, widget: number, value_type: int }
+          - { label: "Innehåll", name: body, widget: markdown }
+      - label: "Erfarenheter"
+        name: erfarenheter
+        file: content/sv/home/erfarenheter.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Vikt (sortering)", name: weight, widget: number, value_type: int }
+          - { label: "Innehåll", name: body, widget: markdown }
+      - label: "Kontakt"
+        name: contact
+        file: content/sv/home/contact.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Innehåll", name: body, widget: markdown, required: false }
