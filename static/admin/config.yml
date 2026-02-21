@@ -5,16 +5,13 @@
 # SETUP INSTRUCTIONS (one-time):
 #
 # 1. Go to https://github.com/settings/developers
-# 2. Click "New OAuth App"
-# 3. Fill in:
-#    - Application name: Odmarden CMS
-#    - Homepage URL: https://odmarden.github.io/
-#    - Authorization callback URL: https://odmarden.github.io/admin/
-# 4. Click "Register application"
-# 5. Copy the "Client ID" and paste it below in the `base_url` field
-#    (replace YOUR_GITHUB_OAUTH_APP_CLIENT_ID)
+# 2. Find the "Odmarden CMS" OAuth App and click to edit it
+# 3. Update to use your custom domain:
+#    - Homepage URL: https://dwiklander.se/
+#    - Authorization callback URL: https://dwiklander.se/admin/
+# 4. Save changes
 #
-# After that, visit https://odmarden.github.io/admin/ to log in and manage
+# After that, visit https://dwiklander.se/admin/ to log in and manage
 # your site content through a graphical interface.
 # =============================================================================
 
