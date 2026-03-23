@@ -1,5 +1,5 @@
 ---
-title: "Vad jag kan och vad jag har gjort"
+title: Vad jag kan och vad jag har gjort
 weight: 15
 ---
 
@@ -20,6 +20,8 @@ Debattredaktör.
 Projektledning och kravställning av en rad webbplatser.
 
 Magasinsproduktion från idé till tryckfärdigt original – inklusive text, foto, layout, upphandling av tryckeri.
+
+Framgångsrikt sökt kulturtidskriftsstöd och mediestöd (när det hette presstöd) för sammanlagt över tio år.
 
 Inspelning och produktion av poddar.
 
