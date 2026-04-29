@@ -41,6 +41,10 @@ Moderator.
 
 Arrangör av event – koncept, marknadsföring, produktion.
 
+Arrangerat två Sverigeturnéer med utländska popband, ett från USA och ett från England.
+
+Klubbarrangör, bland annat på Sturecompagniet.
+
 Medverkar med musik på över tio album utgivna i USA.
 
 **Tidigare arbetsgivare, ett urval:**
