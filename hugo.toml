@@ -11,6 +11,9 @@ DefaultContentLanguage           = "sv"
     fadeInIndex                  = false
     dateFormat                   = "2 Jan 2006"
     email                        = "daniel@dwiklander.se"
+    # Paste the token from Cloudflare dashboard → Analytics & Logs → Web Analytics.
+    # Leave empty to disable.
+    cloudflareAnalyticsToken     = "01336b291b384dc3a5ff680187576f12"
 
     [params.home]
         introHeight              = "fullheight"
