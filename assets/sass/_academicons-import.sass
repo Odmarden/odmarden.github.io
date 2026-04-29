@@ -1,0 +1,7 @@
+// Override of theme partial. Only import the regular academicons.scss
+// (which uses $ai-font-path = ../fonts/academicons-free/webfonts/...).
+//
+// The theme's original file also imports academicons.min.scss, which
+// hardcodes ../fonts/academicons.{eot,ttf,woff,svg} — paths that do
+// not exist in the published site, producing 404s in the network tab.
+@import "../vendor/academicons-free/scss/academicons.scss"

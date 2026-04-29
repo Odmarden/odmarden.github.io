@@ -1,6 +1,7 @@
 baseURL                          = "https://odmarden.github.io/"
 theme                            = "introduction"
 DefaultContentLanguage           = "sv"
+enableRobotsTXT                  = true
 
 [params]
     themeStyle                   = "auto"
