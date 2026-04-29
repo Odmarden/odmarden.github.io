@@ -4,7 +4,6 @@ DefaultContentLanguage           = "sv"
 
 [params]
     themeStyle                   = "auto"
-    favicon                      = "/img/fav.ico"
     showMenu                     = true
     showRSSButton                = false
     fadeIn                       = true
