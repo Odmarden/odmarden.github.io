@@ -1,5 +1,5 @@
 ---
-title: Hallucinationen som verktyg för utveckling
+title: Hallucinationer som verktyg för utveckling
 date: 2026-05-17
 tags:
   - AI
