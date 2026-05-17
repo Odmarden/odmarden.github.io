@@ -7,7 +7,7 @@ tags:
   - Utveckling
 ---
 
-Onlinekursen jag går just nu heter [AI Agents and Agentic AI Architecture in Python](https://www.coursera.org/learn/ai-agents-architecture-python/home/welcome "AI Agents and Agentic AI Architecture in Python - Home Page. Opens in new tab."). I en av videoföreläsningarna säger läraren [James White](https://www.coursera.org/instructor/juleswhite) något mycket vettigt.
+Onlinekursen jag går just nu heter [AI Agents and Agentic AI Architecture in Python](https://www.coursera.org/learn/ai-agents-architecture-python/home/welcome "AI Agents and Agentic AI Architecture in Python - Home Page. Opens in new tab."). I en av videoföreläsningarna säger läraren [Jules White](https://www.coursera.org/instructor/juleswhite) något mycket vettigt.
 
 ”One of the biggest problems that I have with how people use generative AI is they go off and they try to use it to seek answers. 
 
