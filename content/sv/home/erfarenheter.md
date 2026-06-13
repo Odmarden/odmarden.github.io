@@ -45,7 +45,7 @@ Arrangerat två Sverigeturnéer med utländska popband, ett från USA och ett fr
 
 Klubbarrangör, bland annat på Sturecompagniet.
 
-Medverkar med musik på över tio album utgivna i USA.
+Medverkar med musik på tretton album utgivna i USA.
 
 **Tidigare arbetsgivare, ett urval:**
 
