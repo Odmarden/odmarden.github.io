@@ -2,7 +2,7 @@
 title: Varför är terminalen snyggast?
 date: 2026-08-16
 tags:
-  - Antigravity Gemini Terminal AI
+  - Antigravity, Gemini, Terminal, AI
 ---
 
 ![Antigravity CLI](/img/uploads/antigravity.jpg "Antigravity CLI")
